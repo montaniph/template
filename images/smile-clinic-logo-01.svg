@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1389.76 951.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0998e6;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #0081d3;
+      }
+
+      .cls-5 {
+        font-family: HelveticaNeue-CondensedBold, 'Helvetica Neue';
+        font-size: 228.79px;
+      }
+
+      .cls-5, .cls-4 {
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        fill: #d9effa;
+      }
+
+      .cls-6, .cls-3, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        fill: #0098e6;
+      }
+
+      .cls-4 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-size: 106.38px;
+        letter-spacing: .35em;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <path class="cls-3" d="m247.12,293.72s97.09,63.04,267.31-18.91c93.16-44.85,228.22-36.52,172.74,147.1,229.47-238.46,59.26-385.97-214.61-205.99-105.93,69.61-174.75,83.74-225.44,77.81Z"/>
+      <path class="cls-7" d="m627.28,663.82c-194.44-36.06-273.46,50.52-287.47,132.39-147.52-126.71-200.72-396.86-154.47-530.22,54.22-156.35,139.7-36.83,219.14-55.74-73.76-30.26-105.66-163.65-223.77-94.56C35.45,200.65,54.35,690.46,385.94,894.69c-9-92.09,41.04-230.09,241.34-230.87Z"/>
+      <path class="cls-6" d="m407.67,332.81s46.01,1.18,107.6-31.94c90.72-48.79,191.6-26.16,143.74,121.04-.9-96.77-38.72-107.7-93.67-105.07-49.18,2.35-97.99,31.91-157.67,15.97Z"/>
+    </g>
+    <path class="cls-6" d="m376.94,228.48s-11.98,5.04-56.11-10.09c-44.13-15.13-88.89-13.88-112.85,60.52-23.96,74.4-15.13,149.26,0,216.48-8.83-72.73-2.41-183.69,39.14-225.3s93.25,3.78,129.81-41.61Z"/>
+    <path class="cls-6" d="m401.73,879.93s4.2-193.34,213.51-201.74c-65.57,12.61-163.07,53.8-213.51,201.74Z"/>
+  </g>
+  <text class="cls-5" transform="translate(360.83 620.5)"><tspan class="cls-1" x="0" y="0">Smile </tspan><tspan class="cls-2" x="562.82" y="0">Care</tspan></text>
+  <text class="cls-4" transform="translate(774.12 758.49)"><tspan x="0" y="0">CLINIC</tspan></text>
+</svg>
